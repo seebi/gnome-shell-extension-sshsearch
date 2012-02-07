@@ -24,7 +24,7 @@ const Shell = imports.gi.Shell;
 const Util = imports.misc.util;
 
 // Settings
-const SSHSEARCH_TERMINAL_APP = 'gnome-terminal';
+const SSHSEARCH_TERMINAL_APP = 'sakura';
 const HOST_SEARCHSTRING = 'host ';
 
 // sshSearchProvider holds the instance of the search provider
